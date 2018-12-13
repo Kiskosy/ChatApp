@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="chat.chatapp.Login.LoginPage"
+    android:background="@android:color/white">
+
+
+    <EditText
+        android:id="@+id/UsernameEditTextL"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/text1"
+        android:theme="@style/AppTheme"
+        android:hint="Username.."
+        />
+
+    <EditText
+        android:id="@+id/PasswordEditTextL"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/UsernameEditTextL"
+        android:theme="@style/AppTheme"
+        android:hint="Password.."
+        />
+
+    <Button
+        android:id="@+id/LoginButtonL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="   Login    "
+        android:layout_marginTop="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/PasswordEditTextL"
+        />
+
+    <Button
+        android:id="@+id/RegisterButtonL"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="    Register    "
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/LoginButtonL"
+        />
+
+
+
+</RelativeLayout>

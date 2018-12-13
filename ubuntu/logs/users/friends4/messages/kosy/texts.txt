@@ -1,0 +1,2 @@
+{ accountName : 'friends4', targetAccount : 'kosy', messageType : 'received', messageContent : 'Hello Friend, \nhow are you doing?', messageTime : '2018:11:11 13:49:11' }
+{ accountName : 'friends4', targetAccount : 'kosy', messageType : 'received', messageContent : 'Thank you for asking, i am doing good also', messageTime : '2018:11:13 21:10:33' }

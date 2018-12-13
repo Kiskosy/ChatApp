@@ -1,0 +1,3 @@
+{ accountName : 'agnes', targetAccount : 'kosy', messageType : 'received', messageContent : 'hallocicamica', messageTime : '2018:11:13 21:18:31' }
+{ accountName : 'agnes', targetAccount : 'kosy', messageType : 'received', messageContent : 'dsadasd', messageTime : '2018:11:13 21:48:10' }
+{ accountName : 'agnes', targetAccount : 'kosy', messageType : 'received', messageContent : 'dsadasdsa', messageTime : '2018:11:13 21:58:07' }

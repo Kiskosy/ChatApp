@@ -1,0 +1,8 @@
+{ accountName : 'kosy', targetAccount : 'agnes', messageType : 'sent', messageContent : 'hallocicamica', messageTime : '2018:11:13 21:18:31' }
+{ accountName : 'kosy', targetAccount : 'agnes', messageType : 'sent', messageContent : 'miujsag', messageTime : '2018:11:13 21:18:31' }
+{ accountName : 'agnes', targetAccount : 'kosy', messageType : 'received', messageContent : 'szia eletem', messageTime : '2018:11:13 21:18:31' }
+{ accountName : 'agnes', targetAccount : 'kosy', messageType : 'received', messageContent : 'jolvagyok,hianyzol', messageTime : '2018:11:13 21:18:31' }
+{ accountName : 'kosy', targetAccount : 'agnes', messageType : 'sent', messageContent : 'te is nekem baba', messageTime : '2018:11:13 21:18:31' }
+{ accountName : 'agnes', targetAccount : 'kosy', messageType : 'received', messageContent : 'na csa te kis homokos', messageTime : '2018:11:13 21:18:31' }
+{ accountName : 'kosy', targetAccount : 'agnes', messageType : 'sent', messageContent : 'dsadasd', messageTime : '2018:11:13 21:48:10' }
+{ accountName : 'kosy', targetAccount : 'agnes', messageType : 'sent', messageContent : 'dsadasdsa', messageTime : '2018:11:13 21:58:07' }

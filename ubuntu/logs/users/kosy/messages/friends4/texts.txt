@@ -1,0 +1,2 @@
+{ accountName : 'kosy', targetAccount : 'friends4', messageType : 'sent', messageContent : 'dsafasdasdas', messageTime : '2018:11:11 13:49:11' }
+{ accountName : 'kosy', targetAccount : 'friends4', messageType : 'sent', messageContent : 'dsadsadas', messageTime : '2018:11:13 21:10:33' }

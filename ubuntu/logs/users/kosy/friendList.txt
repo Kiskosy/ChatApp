@@ -1,0 +1,5 @@
+{ accountName : 'kosy', friendAccountName : 'agnes' }
+{ accountName : 'kosy', friendAccountName : 'gabor' }
+{ accountName : 'kosy', friendAccountName : 'gyulai' }
+{ accountName : 'kosy', friendAccountName : 'konczi' }
+{ accountName : 'kosy', friendAccountName : 'sandor' }

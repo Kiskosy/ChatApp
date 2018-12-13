@@ -1,0 +1,110 @@
+holyshit
+holyshit2
+omggomggomggomggomggomggomggomggomggomggomgg[object Arguments]folder has been created for the user
+[object Arguments]folder has been created for the user
+./logs/users/kosy/messages/ folder has been created for the use [SUCCESS 200]r
+./logs/Error: ENOENT: no such file or directory, open './logs/kosy/messages/kosy.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/users/kosy/messages/test1 folder has been created for the use [SUCCESS 200]r
+./logs/null/messages/undefined folder could not be closed [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/null/messages/undefined folder could not be closed [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/null/messages/undefined folder could not be closed [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined folder could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/test1/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/users/kosy/messages/test2 folder has been created for the use [SUCCESS 200]r
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+undefined has been inserted into Accounts DB
+./logs/users/kosy/messages/friends3 folder has been created for the use [SUCCESS 200]r
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+undefined has been inserted into Accounts DB
+./logs/users/kosy/messages/friends2 folder has been created for the use [SUCCESS 200]r
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/friends2/texts.txt'/messages/undefined file could not be created [ERROR 500]
+undefined has been inserted into Accounts DB
+test2 folder has been created for the use [SUCCESS 200]r
+undefined has been inserted into Accounts DB
+test2 folder has been created for the use [SUCCESS 200]r
+undefined has been inserted into Accounts DB
+agnes folder has been created for the use [SUCCESS 200]r
+./logs/users/agnes/messages/ folder has been created for the use [SUCCESS 200]r
+undefined has been inserted into Accounts DB
+undefined has been inserted into Accounts DB
+agnes folder has been created for the use [SUCCESS 200]r
+./logs/users/agnes/messages/ folder has been created for the use [SUCCESS 200]r
+undefined has been inserted into Accounts DB
+agnes folder has been created for the use [SUCCESS 200]r
+./logs/users/agnes/messages/ folder has been created for the use [SUCCESS 200]r
+undefined has been inserted into Accounts DB
+agnes folder has been created for the use [SUCCESS 200]r
+./logs/users/agnes/messages/ folder has been created for the use [SUCCESS 200]r
+undefined has been inserted into Accounts DB
+agnes folder has been created for the use [SUCCESS 200]r
+./logs/users/agnes/messages/ folder has been created for the use [SUCCESS 200]r
+undefined has been inserted into Accounts DB
+./logs/users/agnes/messages/friends2 folder has been created for the use [SUCCESS 200]r
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+./logs/users/kosy/messages/friends3 folder has been created for the use [SUCCESS 200]r
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/friends3/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/friends3/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/users/agnes/messages/friends1 folder has been created for the use [SUCCESS 200]r
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+friends1 folder has been created for the use [SUCCESS 200]r
+./logs/users/friends1/messages/ folder has been created for the use [SUCCESS 200]r
+undefined has been inserted into Accounts DB
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+./logs/users/friends1/messages/agnes folder has been created for the use [SUCCESS 200]r
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/agnes/messages/friends1/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/agnes/messages/friends1/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/agnes/messages/friends1/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/agnes/messages/friends1/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/agnes/messages/friends1/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/agnes/messages/friends1/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/agnes/messages/friends1/texts.txt'/messages/undefined file could not be created [ERROR 500]
+joker folder has been created for the use [SUCCESS 200]r
+./logs/users/joker/messages/ folder has been created for the use [SUCCESS 200]r
+undefined has been inserted into Accounts DB
+friends3 folder has been created for the use [SUCCESS 200]r
+./logs/users/friends3/messages/ folder has been created for the use [SUCCESS 200]r
+./logs/users/joker/messages/friends3 folder has been created for the use [SUCCESS 200]r
+./logs/users/friends3/messages/joker folder has been created for the use [SUCCESS 200]r
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+friends4 folder has been created for the use [SUCCESS 200]r
+./logs/users/friends4/messages/ folder has been created for the use [SUCCESS 200]r
+./logs/users/kosy/messages/friends4 folder has been created for the use [SUCCESS 200]r
+./logs/users/friends4/messages/kosy folder has been created for the use [SUCCESS 200]r
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+friends2 folder has been created for the use [SUCCESS 200]r
+./logs/users/friends2/messages/ folder has been created for the use [SUCCESS 200]r
+./logs/users/kosy/messages/friends2 folder has been created for the use [SUCCESS 200]r
+./logs/users/friends2/messages/kosy folder has been created for the use [SUCCESS 200]r
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/friends4/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/friends4/messages/kosy/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/users/kosy/messages/agnes folder has been created for the use [SUCCESS 200]r
+./logs/users/agnes/messages/kosy folder has been created for the use [SUCCESS 200]r
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+./logs/null/messages/undefined file could not be closed [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/agnes/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/agnes/messages/kosy/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/kosy/messages/agnes/texts.txt'/messages/undefined file could not be created [ERROR 500]
+./logs/Error: EEXIST: file already exists, open './logs/users/agnes/messages/kosy/texts.txt'/messages/undefined file could not be created [ERROR 500]
